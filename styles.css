@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f0f0f0;
+    background-color: #6c6565;
 }
 
 header {
@@ -21,11 +21,11 @@ header {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top: 10px;
+    top: 20px;
 }
 
 .home-button img {
-    width: 80px;
+    width: 200px;
     height: auto;
 }
 
